@@ -1,0 +1,25 @@
+Product_ID,Product_Code,Product_Name,Product_Category,Product_Subcategory,Segment_ID,Interest_Rate,Fee_Rate,Launch_Date,Status,Business_Unit
+1,P001,Savings Account,Deposit,Savings,1,4.87,1.93,2021-01-01,Active,Retail Banking
+2,P002,Current Account,Deposit,Current,1,6.66,1.4,2021-01-01,Active,Retail Banking
+3,P003,Fixed Deposit,Deposit,Term Deposit,1,3.78,0.73,2021-01-01,Active,Retail Banking
+4,P004,Islamic Deposit,Deposit,Islamic Deposit,1,3.29,1.8,2021-01-01,Active,Retail Banking
+5,P005,Home Loan,Loan,Mortgage,1,12.81,3.12,2021-01-01,Active,Retail Banking
+6,P006,Personal Loan,Loan,Personal,1,8.16,3.91,2021-01-01,Active,Retail Banking
+7,P007,Auto Loan,Loan,Vehicle,1,14.66,1.64,2021-01-01,Active,Retail Banking
+8,P008,Credit Card,Card,Credit Card,1,20.18,3.1,2021-01-01,Active,Retail Banking
+9,P009,Debit Card,Card,Debit Card,1,21.65,5.15,2021-01-01,Active,Retail Banking
+10,P010,SME Current Account,Deposit,Current,2,5.16,0.94,2021-01-01,Active,SME Banking
+11,P011,SME Term Deposit,Deposit,Term Deposit,2,6.06,0.71,2021-01-01,Active,SME Banking
+12,P012,SME Loan,Loan,Business Loan,2,10.34,2.1,2021-01-01,Active,SME Banking
+13,P013,Business Overdraft,Loan,Overdraft,2,11.65,3.36,2021-01-01,Active,SME Banking
+14,P014,Trade Finance,Trade Finance,Trade,2,6.0,4.06,2021-01-01,Active,SME Banking
+15,P015,Corporate Current Account,Deposit,Current,3,5.96,0.57,2021-01-01,Active,Corporate Banking
+16,P016,Working Capital Loan,Loan,Working Capital,3,12.86,1.51,2021-01-01,Active,Corporate Banking
+17,P017,Corporate Term Loan,Loan,Term Loan,3,8.52,3.85,2021-01-01,Active,Corporate Banking
+18,P018,Letter of Credit,Trade Finance,LC,3,9.83,5.23,2021-01-01,Active,Corporate Banking
+19,P019,Bank Guarantee,Trade Finance,Guarantee,3,6.52,2.39,2021-01-01,Active,Corporate Banking
+20,P020,Cash Management,Treasury,Cash Management,3,8.11,2.32,2021-01-01,Active,Corporate Banking
+21,P021,Priority Savings,Deposit,Savings,4,3.61,1.24,2021-01-01,Active,Priority Banking
+22,P022,Wealth Management,Investment,Investment,4,6.21,2.82,2021-01-01,Active,Priority Banking
+23,P023,Investment Products,Investment,Investment,4,7.55,2.33,2021-01-01,Active,Priority Banking
+24,P024,Premium Credit Card,Card,Premium Card,4,21.74,5.12,2021-01-01,Active,Priority Banking

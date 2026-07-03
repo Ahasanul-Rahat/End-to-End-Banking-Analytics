@@ -1,0 +1,5 @@
+Segment_ID,Segment_Name,Description,Priority_Level,Status
+1,Retail,Retail Banking,1,Active
+2,SME,SME Banking,2,Active
+3,Corporate,Corporate Banking,3,Active
+4,Priority,Priority Banking,4,Active
